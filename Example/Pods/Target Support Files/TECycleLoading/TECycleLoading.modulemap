@@ -1,0 +1,6 @@
+framework module TECycleLoading {
+  umbrella header "TECycleLoading-umbrella.h"
+
+  export *
+  module * { export * }
+}

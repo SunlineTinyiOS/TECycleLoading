@@ -1,0 +1,16 @@
+PODS:
+  - TECycleLoading (0.1.0)
+
+DEPENDENCIES:
+  - TECycleLoading (from `../`)
+
+EXTERNAL SOURCES:
+  TECycleLoading:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TECycleLoading: 9f66b2fe7e1978a4be898c25609bdac9840f7b53
+
+PODFILE CHECKSUM: af66f50323348c51cb12cae5bad881fe94a34fab
+
+COCOAPODS: 1.2.1
